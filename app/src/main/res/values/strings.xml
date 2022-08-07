@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="priscilla_intro">Hello World! My name is Priscilla and I am a Computer Science major at Florida International University with an interest in Full-stack development and Android app development. In my free time, I love to read fiction novels, go on long walks, or play video games.</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
